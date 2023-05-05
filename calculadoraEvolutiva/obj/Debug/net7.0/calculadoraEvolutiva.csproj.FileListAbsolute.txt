@@ -1,0 +1,15 @@
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/bin/Debug/net7.0/calculadoraEvolutiva
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/bin/Debug/net7.0/calculadoraEvolutiva.deps.json
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/bin/Debug/net7.0/calculadoraEvolutiva.runtimeconfig.json
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/bin/Debug/net7.0/calculadoraEvolutiva.dll
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/bin/Debug/net7.0/calculadoraEvolutiva.pdb
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/calculadoraEvolutiva.csproj.AssemblyReference.cache
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/calculadoraEvolutiva.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/calculadoraEvolutiva.AssemblyInfoInputs.cache
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/calculadoraEvolutiva.AssemblyInfo.cs
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/calculadoraEvolutiva.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/calculadoraEvolutiva.dll
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/refint/calculadoraEvolutiva.dll
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/calculadoraEvolutiva.pdb
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/calculadoraEvolutiva.genruntimeconfig.cache
+/Users/georgegarcia/Documents/C#/newCalculator/calculadoraEvolutiva/obj/Debug/net7.0/ref/calculadoraEvolutiva.dll
