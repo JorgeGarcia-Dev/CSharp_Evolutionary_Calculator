@@ -2,7 +2,7 @@
 
 ---
 
-En este programa hemos desarrollado una calculadora, que se ha cosntruido en base a funciones,
+En este programa hemos desarrollado una calculadora, que se ha construido en base a funciones,
 mismas que se van ejecutando en base a las necesidades del usuario, el cual puede elegir entre
 las siguientes opciones:
 
@@ -18,7 +18,8 @@ que el usuario haya elegido.
 
 ---
 
-El programa fue desarrollado con el lenguaje de programación C#, y se utilizó el IDE Visual Studio Code.
+El programa fue desarrollado con el lenguaje de programación C#, y se utilizó el IDE Visual Studio Code,
+se desarrollo desde un entorno Unix(Mac).
 
 ---
 
@@ -26,4 +27,5 @@ Para correr el programa se debe ejecutar el siguiente comando:
 
 ```dotnet run```
 
-Esto ya sea desde la terminal de Visual Studio Code, o desde la terminal de Windows/Mac/Linux.
+Primero hay que estar dentro de la carpeta del proyecto, y al nivel del archivo Program.cs,
+se ejecuta ya sea desde la terminal de Visual Studio Code, o desde la terminal de Mac.
